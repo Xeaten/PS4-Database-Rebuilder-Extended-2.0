@@ -10,7 +10,7 @@ This repository is a modification of the aizenar repository (https://github.com/
 
 ## Instructions
 
-1) Recursively clone (`git clone <url> --recursive`)  this repo or downdload a release.
+1) Downdload a release.
 2) Start FTP server on the PS4
 3) Run the python script through terminal/cmdline:
 	
